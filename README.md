@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hello! 👋 I'm Sienna Hargreaves
+I study computer science at Northeastern University with a concentration in artificial intelligence. I"m passionate about the utilization of machine learning in business, healthcare, and environmental domains, and I enjoy exploring the meaningful real-world impact AI can create.
 
-<!--
 **SHarg9876/SHarg9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
